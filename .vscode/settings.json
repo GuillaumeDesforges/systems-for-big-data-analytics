@@ -1,0 +1,12 @@
+{
+  "nixEnvSelector.nixShellConfig": "${workspaceRoot}/shell.nix",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.dependency.syncWithFolderExplorer": true,
+  "java.dependency.packagePresentation": "hierarchical"
+}

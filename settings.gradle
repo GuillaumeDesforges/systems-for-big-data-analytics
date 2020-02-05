@@ -1,0 +1,2 @@
+rootProject.name = 'Systems for Big Data Analysis - Labs'
+include 'TP1'
